@@ -5,12 +5,44 @@
 }
 .Power{
 	height: 150px;
-	width: 150px;
+	width: 225px;
 	background-color: red;
+	float: left;
+	border-right: solid;
+	border-bottom: solid;
 }
 .number{
-	height: 75px;
-	width: 250px;
+	height: 150px;
+	width: 500px;
 	background-color: blue;
-	displ
+	float: left;
+}
+.moveIt{
+	float: right;
+}
+.backShot{
+	height: 150px;
+	width: 225px;
+	background-color: purple;
+	float: right;
+	
+}
+#margin{
+	margin-right: 100px;
+}
+#margins{
+	
+	border-bottom: solid;
+	border-right: solid;
+}
+#backUp{
+	
+	border-bottom: solid;
+	border-right: solid;
+}
+#leftside{
+	float: left;
+}
+#rightside{
+	float: right;
 }
